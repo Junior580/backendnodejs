@@ -1,0 +1,16 @@
+{
+  "name": "backendnodejs",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Junior580 <junior_silvapereira@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
